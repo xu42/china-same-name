@@ -1,0 +1,24 @@
+{
+  "name": "xu42/china_same_name",
+  "description": "china same name query",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "license": "MIT",
+  "keywords": [
+    "中国同名同姓",
+    "同名查询"
+  ],
+  "authors": [
+    {
+      "name": "xu42",
+      "email": "xu42.cn@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Xu42\\ChinaSameName\\": "src/"
+    }
+  }
+}
