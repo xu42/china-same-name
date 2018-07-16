@@ -73,5 +73,47 @@ final class AreaConfig
         'beijing' => [
 
         ],
+        'zhejiang' => [
+            'common' => [
+                'method' => 'get',
+                'url' => 'http://team.zjqq.mobi/repeat_name.php?name=@NAME@',
+            ],
+            'default' => [
+                'key' => 'out.ArrayOfString.11.string.3',
+            ],
+            'hangzhou' => [
+                'key' => 'out.ArrayOfString.0.string.3',
+            ],
+            'ningbo' => [
+                'key' => 'out.ArrayOfString.1.string.3',
+            ],
+            'wenzhou' => [
+                'key' => 'out.ArrayOfString.2.string.3',
+            ],
+            'shaoxing' => [
+                'key' => 'out.ArrayOfString.3.string.3',
+            ],
+            'jiaxing' => [
+                'key' => 'out.ArrayOfString.4.string.3',
+            ],
+            'huzhou' => [
+                'key' => 'out.ArrayOfString.5.string.3',
+            ],
+            'jinhua' => [
+                'key' => 'out.ArrayOfString.6.string.3',
+            ],
+            'quzhou' => [
+                'key' => 'out.ArrayOfString.7.string.3',
+            ],
+            'zhoushan' => [
+                'key' => 'out.ArrayOfString.8.string.3',
+            ],
+            'taizhou' => [
+                'key' => 'out.ArrayOfString.9.string.3',
+            ],
+            'lishui' => [
+                'key' => 'out.ArrayOfString.10.string.3',
+            ],
+        ],
     ];
 }
