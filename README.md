@@ -11,7 +11,7 @@ $ composer require xu42/china-same-name
 
 ## Usage
 
-⚠️注意: 目前仅支持河南全省及其各市查询.
+⚠️注意: 目前已支持河南、浙江全省及其各市查询.
 
 
 ``` php
